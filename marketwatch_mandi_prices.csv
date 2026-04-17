@@ -1,0 +1,623 @@
+,CityName,CropName,Today's FQP/Average Price,Yesterday's FQP/Average Price,Change in Price
+0,Lahore,Brinjal,6050,6450,-400
+1,Lahore,Cauliflower,4600,4100,500
+2,Lahore,Cucumber (Kheera),4600,4100,500
+3,Lahore,Watermelon,5100,5550,-450
+4,Lahore,Green Chilli,9750,10250,-500
+5,Faisalabad,Onion,5750,5200,550
+6,Faisalabad,Tomato,7200,6750,450
+7,Faisalabad,Spinach,2650,2500,150
+8,Faisalabad,Lady Finger/Okra (بھنڈی توری),18500,19500,-1000
+9,Faisalabad,Garlic (Local),14500,17500,-3000
+10,Faisalabad,Cucumber (Kheera),4750,3800,950
+11,Faisalabad,Melon,8600,8750,-150
+12,Faisalabad,Turmeric Whole(ثابت ہلدی),8550,8750,-200
+13,Faisalabad,Tindian,5750,6050,-300
+14,Gujranwala,Onion,6250,5300,950
+15,Gujranwala,Bitter Gourd (کریلا),15900,15800,100
+16,Gujranwala,Cauliflower,4800,4600,200
+17,Gujranwala,Peas,9300,8150,1150
+18,Gujranwala,Cucumber (Kheera),5100,4500,600
+19,Gujranwala,Fenugreek(میتھی),5900,5300,600
+20,Okara,Mash Pulse(Imported) washed,39750,41750,-2000
+21,Okara,Maize,8350,8395,-45
+22,Okara,Potato Fresh,1175,1100,75
+23,Okara,Onion,5750,5250,500
+24,Okara,Bitter Gourd (کریلا),13750,14750,-1000
+25,Okara,Carrot,2750,3250,-500
+26,Okara,Banana(DOZEN),218,225,-7
+27,Okara,Bottle Gourd (کدو),7250,7750,-500
+28,Okara,sugarcane(گنڈ یری),11750,9750,2000
+29,Sargodha,Onion,5750,5150,600
+30,Sargodha,Tomato,7150,6750,400
+31,Sargodha,Cauliflower,4750,4400,350
+32,Sargodha,Garlic (Local),14500,17500,-3000
+33,Sargodha,Cucumber (Kheera),4250,3800,450
+34,Sargodha,Green Chilli,7750,7250,500
+35,Rawalpindi,Onion,7950,6150,1800
+36,Rawalpindi,Tomato,7950,7050,900
+37,Rawalpindi,Brinjal,6350,6600,-250
+38,Rawalpindi,Bitter Gourd (کریلا),13150,14050,-900
+39,Rawalpindi,Cauliflower,6150,5700,450
+40,Rawalpindi,Radish,2950,2500,450
+41,Rawalpindi,Carrot,6150,5700,450
+42,Rawalpindi,Guava,13150,12750,400
+43,Rawalpindi,Cabbage,5250,4750,500
+44,Rawalpindi,Ginger (Thai),27850,26900,950
+45,Rawalpindi,Cucumber (Kheera),4750,3400,1350
+46,Rawalpindi,Melon,8150,7300,850
+47,Rawalpindi,Watermelon,6600,6150,450
+48,Rawalpindi,Green Chilli,7050,6150,900
+49,Rawalpindi,Lemon (China),8850,8400,450
+50,Rawalpindi,Sweet Musk Melon,11350,10900,450
+51,Rawalpindi,Bottle Gourd (کدو),8850,9550,-700
+52,Rawalpindi,Zucchini (گھیا توری),10950,10450,500
+53,Rawalpindi,Fenugreek(میتھی),8650,7750,900
+54,Rawalpindi,Cocoyam(اروی),10000,9350,650
+55,Rawalpindi,Mustard Greens(ساگ سرسوں),3400,2700,700
+56,Rawalpindi,Coriander (دھنیا),9100,8550,550
+57,Rawalpindi,Cocunut,44550,43150,1400
+58,Multan,Brinjal,4750,5750,-1000
+59,Multan,Red Chilli Whole (Dry),46250,46315,-65
+60,Multan,Lady Finger/Okra (بھنڈی توری),14500,17500,-3000
+61,Multan,Bitter Gourd (کریلا),10500,11500,-1000
+62,Multan,Tinda Desi,24500,26500,-2000
+63,Multan,Cauliflower,6750,8250,-1500
+64,Multan,Carrot,2000,2500,-500
+65,Multan,Apple (Ammre),22000,22500,-500
+66,Multan,Pomegranate(Kandhari),53500,55000,-1500
+67,Multan,Cucumber (Kheera),3750,3350,400
+68,Multan,Watermelon,6750,7500,-750
+69,Multan,Strawberry,19500,17500,2000
+70,Multan,Lemon (Desi),23500,24500,-1000
+71,Multan,Bottle Gourd (کدو),5750,6250,-500
+72,Multan,Zucchini (گھیا توری),4750,5250,-500
+73,Multan,sugarcane(گنڈ یری),8250,7750,500
+74,RahimYarKhan,Onion,5228,4318,910
+75,RahimYarKhan,Garlic (China),43864,41364,2500
+76,RahimYarKhan,Tomato,4793,5664,-871
+77,RahimYarKhan,Brinjal,5664,4793,871
+78,RahimYarKhan,Lady Finger/Okra (بھنڈی توری),13941,14812,-871
+79,RahimYarKhan,Bitter Gourd (کریلا),9149,10020,-871
+80,RahimYarKhan,Peas,12273,10455,1818
+81,RahimYarKhan,Carrot,3268,2832,436
+82,RahimYarKhan,Banana(DOZEN),135,140,-5
+83,RahimYarKhan,Ginger (Thai),23864,25227,-1363
+84,RahimYarKhan,Cucumber (Kheera),4139,3268,871
+85,RahimYarKhan,Strawberry,22654,19605,3049
+86,RahimYarKhan,Capsicum (شملہ مرچ),4793,3921,872
+87,RahimYarKhan,Lemon (China),10892,10020,872
+88,RahimYarKhan,Bottle Gourd (کدو),4793,3921,872
+89,Bhalwal,Onion,6250,5650,600
+90,Bhalwal,Tomato,7650,7250,400
+91,Bhalwal,Lady Finger/Okra (بھنڈی توری),19500,20500,-1000
+92,Bhalwal,Cauliflower,5250,4800,450
+93,Bhalwal,Carrot,3800,4000,-200
+94,Bhalwal,Garlic (Local),15500,18500,-3000
+95,Bhalwal,Cucumber (Kheera),4750,4200,550
+96,Bhalwal,Green Chilli,8250,7750,500
+97,Sahiwal,Mash Pulse(Imported) washed,39650,39600,50
+98,Sahiwal,Masoor Whole(local),18600,19200,-600
+99,Sahiwal,Masoor Pulse(local),18650,19200,-550
+100,Sahiwal,Onion,5850,5050,800
+101,Sahiwal,Tomato,7150,6850,300
+102,Sahiwal,Spinach,2750,2700,50
+103,Sahiwal,Brinjal,4500,4000,500
+104,Sahiwal,Lady Finger/Okra (بھنڈی توری),17850,19850,-2000
+105,Sahiwal,Bitter Gourd (کریلا),13500,11850,1650
+106,Sahiwal,Cauliflower,5850,6050,-200
+107,Sahiwal,Turnip,2350,2300,50
+108,Sahiwal,Radish,2650,2750,-100
+109,Sahiwal,Apple Kala Kullu (Pahari),42000,42150,-150
+110,Sahiwal,Apple (Golden),23850,23600,250
+111,Sahiwal,Kinnow (100Pcs),1300,1400,-100
+112,Sahiwal,Gram White(Imported),25625,25600,25
+113,Sahiwal,Ginger (Thai),26850,26750,100
+114,Sahiwal,Masoor Whole (Imported),19200,19600,-400
+115,Sahiwal,Masoor Pulse (Imported),19250,19600,-350
+116,Sahiwal,Garlic (Local),17000,16850,150
+117,Sahiwal,Cucumber (Kheera),3850,3650,200
+118,Sahiwal,Apple Kala Kullu (Madani),24500,24250,250
+119,Sahiwal,Strawberry,17150,17850,-700
+120,Sahiwal,Dates (Aseel),33000,33500,-500
+121,Sahiwal,Capsicum (شملہ مرچ),3850,3650,200
+122,Sahiwal,Lemon (China),5850,5650,200
+123,Sahiwal,Gram Flour (بیسن),21200,21100,100
+124,Sahiwal,Bottle Gourd (کدو),7000,7850,-850
+125,Sahiwal,Zucchini (گھیا توری),9850,10000,-150
+126,Sahiwal,Sweet Potato(شکر قندی),10500,11350,-850
+127,Sahiwal,Mint(پودینہ),13700,13860,-160
+128,Sahiwal,sugarcane(گنڈ یری),11500,10000,1500
+129,Sahiwal,Tindian,5000,5650,-650
+130,Sahiwal,Dates(Irani),46000,45750,250
+131,Vehari,Tomato,5300,5800,-500
+132,Vehari,Brinjal,5250,5500,-250
+133,Vehari,Banana(DOZEN),163,160,3
+134,Vehari,Cucumber (Kheera),3100,2150,950
+135,Vehari,Strawberry,17500,10000,7500
+136,Vehari,Sweet Musk Melon,9300,8900,400
+137,Burewala,Garlic (China),41350,42500,-1150
+138,Burewala,Tomato,5300,5250,50
+139,Burewala,Spinach,1100,1000,100
+140,Burewala,Lady Finger/Okra (بھنڈی توری),18250,18750,-500
+141,Burewala,Pumpkin,3800,4100,-300
+142,Burewala,Peas,11500,7750,3750
+143,Burewala,Carrot,5000,4100,900
+144,Burewala,Apple Kala Kullu (Pahari),36000,32500,3500
+145,Burewala,Guava,8000,8500,-500
+146,Burewala,Cabbage,2100,2300,-200
+147,Burewala,Garlic (Local),11000,17000,-6000
+148,Burewala,Cucumber (Kheera),3150,2250,900
+149,Burewala,Watermelon,5950,6000,-50
+150,Burewala,Strawberry,15750,16250,-500
+151,Burewala,Capsicum (شملہ مرچ),3150,3200,-50
+152,Burewala,Sweet Musk Melon,13000,12000,1000
+153,Burewala,Zucchini (گھیا توری),9100,9500,-400
+154,Burewala,Fenugreek(میتھی),1200,1000,200
+155,Burewala,Coriander (دھنیا),8000,8500,-500
+156,Burewala,green chickpeas(چھولیا),2700,2550,150
+157,Burewala,Tindian,6000,5950,50
+158,Layyah,Potato Fresh,1550,1650,-100
+159,Layyah,Onion,4950,5250,-300
+160,Layyah,Bitter Gourd (کریلا),7700,10000,-2300
+161,Layyah,Pumpkin,5150,7600,-2450
+162,Layyah,Cucumber (Kheera),4950,3250,1700
+163,Layyah,Watermelon,6950,6050,900
+164,Layyah,Strawberry,28500,23600,4900
+165,Layyah,Green Chilli,3950,5000,-1050
+166,Layyah,Capsicum (شملہ مرچ),7700,2400,5300
+167,Layyah,Bottle Gourd (کدو),5150,6200,-1050
+168,Layyah,Zucchini (گھیا توری),5950,7000,-1050
+169,Khanewal,Onion,5500,5550,-50
+170,Khanewal,Brinjal,5000,8250,-3250
+171,Khanewal,Bitter Gourd (کریلا),11000,12000,-1000
+172,Khanewal,Cauliflower,7800,8250,-450
+173,Khanewal,Peas,16000,14250,1750
+174,Khanewal,Carrot,3250,3700,-450
+175,Khanewal,Guava,13000,12500,500
+176,Khanewal,Kinnow (100Pcs),23500,23000,500
+177,Khanewal,Pomegranate(Kandhari),57000,58000,-1000
+178,Khanewal,Grapefruit(100Pcs),6900,6250,650
+179,Khanewal,Cucumber (Kheera),4250,4300,-50
+180,Khanewal,Apple (Gatcha),23000,23500,-500
+181,Khanewal,Capsicum (شملہ مرچ),4250,5250,-1000
+182,Khanewal,Bottle Gourd (کدو),5750,6250,-500
+183,Khanewal,Coriander (دھنیا),9500,8250,1250
+184,Khanewal,sugarcane(گنڈ یری),8750,8250,500
+185,Khanewal,Dates(Irani),44000,44500,-500
+186,TTSingh,Mash Pulse(Imported) washed,39000,39500,-500
+187,TTSingh,Garlic (China),47750,47500,250
+188,TTSingh,Pomegranate(Kandhari),60000,61000,-1000
+189,TTSingh,Green Chilli,6550,7500,-950
+190,TTSingh,Cocoyam(اروی),11000,11250,-250
+191,TTSingh,Rice Kainat (New),28250,28500,-250
+192,ArifWala,Onion,5750,5250,500
+193,ArifWala,Garlic (China),45000,44500,500
+194,ArifWala,Garlic (Local),11500,12000,-500
+195,ArifWala,Cucumber (Kheera),3100,2950,150
+196,ArifWala,Melon,9500,11500,-2000
+197,ArifWala,Watermelon,6500,8000,-1500
+198,ArifWala,Zucchini (گھیا توری),10500,11500,-1000
+199,ArifWala,jujube(بیر),8000,7500,500
+200,Jaranwala,Potato Fresh,1550,1600,-50
+201,Jaranwala,Onion,5500,5000,500
+202,Jaranwala,Tomato,7200,6250,950
+203,Jaranwala,Lady Finger/Okra (بھنڈی توری),16500,19000,-2500
+204,Jaranwala,Cauliflower,4500,4100,400
+205,Jaranwala,Apple Kala Kullu (Pahari),38500,39000,-500
+206,Jaranwala,Apple (Golden),30000,29000,1000
+207,Jaranwala,Pomegranate(Kandhari),65500,63000,2500
+208,Jaranwala,Garlic (Local),14475,17000,-2525
+209,Jaranwala,Cucumber (Kheera),4500,3750,750
+210,PakPattan,Rice Basmati Super (New),32500,29500,3000
+211,PakPattan,Onion,5700,5250,450
+212,PakPattan,Garlic (China),46050,46200,-150
+213,PakPattan,Lady Finger/Okra (بھنڈی توری),2800,17300,-14500
+214,PakPattan,Gram White(Imported),25500,20500,5000
+215,PakPattan,Cucumber (Kheera),3050,2800,250
+216,PakPattan,Capsicum (شملہ مرچ),3200,3700,-500
+217,PakPattan,Sweet Musk Melon (Shireen),12150,13600,-1450
+218,Lodhran,Garlic (China),45500,44000,1500
+219,Lodhran,Tomato,6100,5900,200
+220,Lodhran,Lady Finger/Okra (بھنڈی توری),14750,18000,-3250
+221,Lodhran,Bitter Gourd (کریلا),9500,10000,-500
+222,Lodhran,Cauliflower,6800,8200,-1400
+223,Lodhran,Peas,12100,11800,300
+224,Lodhran,Carrot,2100,2300,-200
+225,Lodhran,Apple Kala Kullu (Pahari),36500,36250,250
+226,Lodhran,Apple (Ammre),22000,22250,-250
+227,Lodhran,Cabbage,1500,1550,-50
+228,Lodhran,Cucumber (Kheera),2800,3400,-600
+229,Lodhran,Melon,6600,6650,-50
+230,Lodhran,Watermelon,5650,5850,-200
+231,Lodhran,Strawberry,18250,19000,-750
+232,Lodhran,Capsicum (شملہ مرچ),2600,2700,-100
+233,Lodhran,Zucchini (گھیا توری),5200,5800,-600
+234,Lodhran,sugarcane(گنڈ یری),8200,7800,400
+235,Lodhran,Tindian,5100,5000,100
+236,Mailsi,Tomato,5800,5550,250
+237,Mailsi,Peas,12500,11000,1500
+238,Mailsi,Banana(DOZEN),165,160,5
+239,Mailsi,Ginger (Thai),23250,23500,-250
+240,Mailsi,Cucumber (Kheera),3200,2250,950
+241,Mailsi,Strawberry,17000,16500,500
+242,Kahrorpacca,Potato Fresh,1300,1200,100
+243,Kahrorpacca,Garlic (China),45500,44000,1500
+244,Kahrorpacca,Lady Finger/Okra (بھنڈی توری),14500,18000,-3500
+245,Kahrorpacca,Bitter Gourd (کریلا),9500,10000,-500
+246,Kahrorpacca,Cauliflower,6800,8200,-1400
+247,Kahrorpacca,Peas,12200,11800,400
+248,Kahrorpacca,Carrot,2100,2300,-200
+249,Kahrorpacca,Apple (Ammre),22000,22500,-500
+250,Kahrorpacca,Cucumber (Kheera),2800,3400,-600
+251,Kahrorpacca,Watermelon,6800,7200,-400
+252,Kahrorpacca,Strawberry,20000,19000,1000
+253,Kahrorpacca,Capsicum (شملہ مرچ),2600,2700,-100
+254,Kahrorpacca,Zucchini (گھیا توری),5200,5800,-600
+255,Kahrorpacca,sugarcane(گنڈ یری),8200,7800,400
+256,Kahrorpacca,Tindian,5200,5000,200
+257,Chichawatni,Onion,6000,5250,750
+258,Chichawatni,Spinach,2250,2500,-250
+259,Chichawatni,Carrot,4250,3250,1000
+260,Chichawatni,Guava,7250,6250,1000
+261,Chichawatni,Cabbage,3250,2500,750
+262,Chichawatni,Garlic (Local),13500,14500,-1000
+263,Chichawatni,Melon,8000,9000,-1000
+264,Chichawatni,Watermelon,5250,6500,-1250
+265,Chichawatni,Strawberry,11000,12000,-1000
+266,Chichawatni,Bottle Gourd (کدو),6250,7250,-1000
+267,Chichawatni,Zucchini (گھیا توری),10500,12000,-1500
+268,Chichawatni,Cocoyam(اروی),12500,13500,-1000
+269,DunyaPur,Onion,5125,5250,-125
+270,DunyaPur,Lady Finger/Okra (بھنڈی توری),14750,17750,-3000
+271,DunyaPur,Bitter Gourd (کریلا),9375,10125,-750
+272,DunyaPur,Cauliflower,6375,8125,-1750
+273,DunyaPur,Cabbage,3900,1450,2450
+274,DunyaPur,Cucumber (Kheera),2750,3450,-700
+275,DunyaPur,Capsicum (شملہ مرچ),2750,2450,300
+276,DunyaPur,Bottle Gourd (کدو),4100,3900,200
+277,DunyaPur,Zucchini (گھیا توری),5375,5900,-525
+278,DGKHAN,Garlic (China),47000,47300,-300
+279,DGKHAN,Lady Finger/Okra (بھنڈی توری),21500,23500,-2000
+280,DGKHAN,Bitter Gourd (کریلا),10500,12500,-2000
+281,DGKHAN,Banana(DOZEN),158,185,-27
+282,DGKHAN,Sweet Musk Melon,8500,9500,-1000
+283,DGKHAN,Bottle Gourd (کدو),5750,6250,-500
+284,JamPur,Garlic (China),50000,48000,2000
+285,JamPur,Tomato,5000,6050,-1050
+286,JamPur,Lady Finger/Okra (بھنڈی توری),15000,18500,-3500
+287,JamPur,Bitter Gourd (کریلا),8300,9000,-700
+288,JamPur,Peas,8300,9000,-700
+289,JamPur,Melon,6500,5500,1000
+290,JamPur,Strawberry,27500,24000,3500
+291,JamPur,Green Chilli,5500,4500,1000
+292,JamPur,Sweet Musk Melon,7500,6500,1000
+293,JamPur,Bottle Gourd (کدو),4500,3500,1000
+294,JamPur,Zucchini (گھیا توری),8300,7800,500
+295,JamPur,Fenugreek(میتھی),4500,3500,1000
+296,JamPur,Coriander (دھنیا),7500,4500,3000
+297,JamPur,jujube(بیر),6500,5500,1000
+298,Sialkot,Rice Basmati Super (New),25850,25950,-100
+299,Sialkot,Onion,6100,5200,900
+300,Sialkot,Garlic (China),42800,42600,200
+301,Sialkot,Tomato,7000,6050,950
+302,Sialkot,Spinach,2600,2675,-75
+303,Sialkot,Brinjal,6400,7000,-600
+304,Sialkot,Lady Finger/Okra (بھنڈی توری),18450,17950,500
+305,Sialkot,Bitter Gourd (کریلا),15000,14400,600
+306,Sialkot,Cauliflower,4800,4300,500
+307,Sialkot,Peas,8900,7700,1200
+308,Sialkot,Turnip,2300,2400,-100
+309,Sialkot,Radish,2050,2100,-50
+310,Sialkot,Apple Kala Kullu (Pahari),36500,36100,400
+311,Sialkot,Banana(DOZEN),192,195,-3
+312,Sialkot,Guava,14000,14050,-50
+313,Sialkot,Pomegranate(Kandhari),60000,58000,2000
+314,Sialkot,Musambi(100Pcs),1450,1470,-20
+315,Sialkot,Cabbage,3850,3900,-50
+316,Sialkot,Ginger (Thai),25950,25750,200
+317,Sialkot,Cucumber (Kheera),5300,4300,1000
+318,Sialkot,Watermelon,6200,6000,200
+319,Sialkot,Strawberry,17400,17300,100
+320,Sialkot,Dates (Aseel),31000,30950,50
+321,Sialkot,Green Chilli,8900,9000,-100
+322,Sialkot,Capsicum (شملہ مرچ),7000,7800,-800
+323,Sialkot,Lemon (China),6100,5600,500
+324,Sialkot,Bottle Gourd (کدو),8400,8700,-300
+325,Sialkot,Fenugreek(میتھی),4850,4900,-50
+326,Sialkot,Mongray,6400,7400,-1000
+327,Sialkot,Mustard Greens(ساگ سرسوں),2750,2650,100
+328,Sialkot,Carrot China,6100,6000,100
+329,Sialkot,jujube(بیر),6300,6400,-100
+330,Sialkot,Papaya(پپیتا),15900,17600,-1700
+331,Sialkot,sugarcane(گنڈ یری),7900,8400,-500
+332,Sialkot,Tindian,6100,6500,-400
+333,Sialkot,Dates(Irani),42000,41150,850
+334,Chakwal,Onion,6250,5350,900
+335,Chakwal,Tomato,7250,7350,-100
+336,Chakwal,Banana(DOZEN),215,213,2
+337,Jhelum,Onion,6100,5200,900
+338,Jhelum,Brinjal,6100,6550,-450
+339,Jhelum,Lady Finger/Okra (بھنڈی توری),22050,24350,-2300
+340,Jhelum,Peas,10150,9700,450
+341,Jhelum,Guava,12850,12400,450
+342,Jhelum,Cucumber (Kheera),5650,6100,-450
+343,Jhelum,Dates (Aseel),32850,31950,900
+344,Jhelum,Green Chilli,5200,5650,-450
+345,Jhelum,Lemon (China),8350,7450,900
+346,Jhelum,Bottle Gourd (کدو),8800,9700,-900
+347,Jhelum,Fenugreek(میتھی),2400,2100,300
+348,Jhelum,Coriander (دھنیا),2500,2300,200
+349,Jhelum,Papaya(پپیتا),19350,22050,-2700
+350,Jhelum,Loquat,17500,17550,-50
+351,Jhelum,Dates(Irani),42350,41850,500
+352,Mianwali,Potato Fresh,1700,1900,-200
+353,Mianwali,Garlic (China),44600,45000,-400
+354,Mianwali,Tomato,7000,7700,-700
+355,Mianwali,Bitter Gourd (کریلا),10800,11700,-900
+356,Mianwali,Peas,11700,12630,-930
+357,Mianwali,Apple Kala Kullu (Pahari),32400,21400,11000
+358,Mianwali,Apple (Golden),26100,27000,-900
+359,Mianwali,Guava,10800,12600,-1800
+360,Mianwali,Orange(100Pcs),1360,1400,-40
+361,Mianwali,Kinnow (100Pcs),2840,2040,800
+362,Mianwali,Ginger (Thai),25700,26600,-900
+363,Mianwali,Garlic (Local),14400,17600,-3200
+364,Mianwali,Green Chilli,9000,8100,900
+365,Mianwali,Capsicum (شملہ مرچ),4500,7200,-2700
+366,Mianwali,Sweet Musk Melon,13500,14400,-900
+367,RajanPur,Tomato,5100,6000,-900
+368,RajanPur,Lady Finger/Okra (بھنڈی توری),13000,17000,-4000
+369,RajanPur,Bitter Gourd (کریلا),7500,8500,-1000
+370,RajanPur,Apple Kala Kullu (Pahari),32400,33900,-1500
+371,RajanPur,Melon,5000,5500,-500
+372,RajanPur,Watermelon,6500,5500,1000
+373,RajanPur,Bottle Gourd (کدو),4500,3500,1000
+374,RajanPur,Zucchini (گھیا توری),8500,7500,1000
+375,Jhang,Gram Pulse,18500,19500,-1000
+376,Jhang,Potato Fresh,1550,1600,-50
+377,Jhang,Onion,5750,5450,300
+378,Jhang,Garlic (China),49500,47500,2000
+379,Jhang,Tomato,7350,6750,600
+380,Jhang,Spinach,2350,2450,-100
+381,Jhang,Lady Finger/Okra (بھنڈی توری),19500,17500,2000
+382,Jhang,Bitter Gourd (کریلا),10100,9500,600
+383,Jhang,Tinda Desi,16500,17500,-1000
+384,Jhang,Pumpkin,5450,4750,700
+385,Jhang,Carrot,5750,3750,2000
+386,Jhang,Apple Kala Kullu (Pahari),39500,39000,500
+387,Jhang,Apple (Golden),29500,64500,-35000
+388,Jhang,Guava,9500,7500,2000
+389,Jhang,Kinnow (100Pcs),1350,1300,50
+390,Jhang,Garlic (Local),14500,17500,-3000
+391,Jhang,Cucumber (Kheera),4450,3750,700
+392,Jhang,Melon,9750,8500,1250
+393,Jhang,Apple Kala Kullu (Madani),27500,29500,-2000
+394,Jhang,Lemon (China),6750,6500,250
+395,Jhang,Gram Flour (بیسن),17000,18500,-1500
+396,Jhang,Sweet Musk Melon,11500,10750,750
+397,KotAdu,Onion,5100,4900,200
+398,KotAdu,Bitter Gourd (کریلا),8500,9500,-1000
+399,KotAdu,Kinnow (100Pcs),14500,15500,-1000
+400,KotAdu,Watermelon,4500,3500,1000
+401,KotAdu,Strawberry,19000,19500,-500
+402,KotAdu,Capsicum (شملہ مرچ),3500,3750,-250
+403,KotAdu,Sweet Musk Melon (Shireen),11500,12500,-1000
+404,KotAdu,Fenugreek(میتھی),5500,4500,1000
+405,KotAdu,sugarcane(گنڈ یری),8500,7500,1000
+406,Nankana,Onion,6500,5500,1000
+407,Nankana,Brinjal,6000,6500,-500
+408,Nankana,Cauliflower,4700,4150,550
+409,Nankana,Turnip,2300,1800,500
+410,Nankana,Cucumber (Kheera),4700,4150,550
+411,Nankana,jujube(بیر),6500,6000,500
+412,Nankana,Papaya(پپیتا),15000,16000,-1000
+413,LiaqatPur,Onion,5175,4275,900
+414,LiaqatPur,Garlic (China),43425,40950,2475
+415,LiaqatPur,Tomato,4950,5850,-900
+416,LiaqatPur,Brinjal,5850,5175,675
+417,LiaqatPur,Lady Finger/Okra (بھنڈی توری),14400,15300,-900
+418,LiaqatPur,Bitter Gourd (کریلا),9450,10350,-900
+419,LiaqatPur,Banana(DOZEN),122,126,-4
+420,LiaqatPur,Cabbage,2925,2869,56
+421,LiaqatPur,Cucumber (Kheera),4275,3375,900
+422,LiaqatPur,Melon,8550,6075,2475
+423,LiaqatPur,Watermelon,4950,5850,-900
+424,LiaqatPur,Strawberry,22950,20700,2250
+425,LiaqatPur,Capsicum (شملہ مرچ),4950,4275,675
+426,LiaqatPur,Lemon (China),9900,8550,1350
+427,LiaqatPur,Bottle Gourd (کدو),4950,4275,675
+428,LiaqatPur,Suger Beet(چقندر),4950,6750,-1800
+429,Chiniot,Onion,5600,4900,700
+430,Chiniot,Tomato,6450,6200,250
+431,Chiniot,Lady Finger/Okra (بھنڈی توری),17750,19550,-1800
+432,Chiniot,Bitter Gourd (کریلا),10450,12250,-1800
+433,Chiniot,Turnip,2500,2850,-350
+434,Chiniot,Banana(DOZEN),196,187,9
+435,Chiniot,Green Chilli,4700,4050,650
+436,Chiniot,Bottle Gourd (کدو),6850,6350,500
+437,Chiniot,Zucchini (گھیا توری),10450,11350,-900
+438,Chiniot,Coriander (دھنیا),5950,7750,-1800
+439,Kalurkot,Gram Black,14500,16050,-1550
+440,Kalurkot,Moong,23000,23500,-500
+441,Kalurkot,Mash Pulse(Imported) washed,37750,37300,450
+442,Kalurkot,Millet,8050,7750,300
+443,Kalurkot,Onion,5700,6300,-600
+444,Kalurkot,Garlic (China),44400,44100,300
+445,Kalurkot,Tomato,7300,6900,400
+446,Kalurkot,Spinach,3500,3400,100
+447,Kalurkot,Brinjal,6300,7300,-1000
+448,Kalurkot,Lady Finger/Okra (بھنڈی توری),22600,24100,-1500
+449,Kalurkot,Cucumber (Kheera),4600,4300,300
+450,Kalurkot,Melon,6100,8600,-2500
+451,Kalurkot,Watermelon,7100,8900,-1800
+452,Kalurkot,Green Chilli,7100,8000,-900
+453,Kalurkot,Lemon (China),7100,6300,800
+454,Fortabas,Potato Fresh,1650,1500,150
+455,Fortabas,Potato Store,1100,900,200
+456,Fortabas,Onion,5200,4400,800
+457,Fortabas,Tomato,6250,5850,400
+458,Fortabas,Brinjal,5300,5700,-400
+459,Fortabas,Lady Finger/Okra (بھنڈی توری),13850,15250,-1400
+460,Fortabas,Bitter Gourd (کریلا),11450,13750,-2300
+461,Fortabas,Cauliflower,5350,4750,600
+462,Fortabas,Peas,7700,8250,-550
+463,Fortabas,Carrot,3850,4750,-900
+464,Fortabas,Apple (Golden),29500,29250,250
+465,Fortabas,Banana(DOZEN),167,155,12
+466,Fortabas,Guava,11750,11050,700
+467,Fortabas,Cabbage,3850,2600,1250
+468,Fortabas,Ginger (Thai),27500,28200,-700
+469,Fortabas,Cucumber (Kheera),2350,2500,-150
+470,Fortabas,Melon,8700,7750,950
+471,Fortabas,Watermelon,7250,6700,550
+472,Fortabas,Strawberry,20500,9800,10700
+473,Fortabas,Dates (Aseel),44750,27500,17250
+474,Fortabas,Capsicum (شملہ مرچ),5800,3800,2000
+475,Fortabas,Bottle Gourd (کدو),8850,10600,-1750
+476,Fortabas,Zucchini (گھیا توری),13300,9750,3550
+477,Fortabas,Cocoyam(اروی),12400,12150,250
+478,Fortabas,Coriander (دھنیا),9600,11250,-1650
+479,Fortabas,sugarcane(گنڈ یری),9500,9800,-300
+480,Fortabas,Tindian,7250,4250,3000
+481,Fortabas,Dates(Irani),27500,44500,-17000
+482,TALAGANG,Onion,6400,5500,900
+483,TALAGANG,Tomato,7400,6900,500
+484,TALAGANG,Lady Finger/Okra (بھنڈی توری),23400,26400,-3000
+485,TALAGANG,Carrot,7400,8300,-900
+486,TALAGANG,Apple Kala Kullu (Pahari),38100,38400,-300
+487,TALAGANG,Guava,13900,12900,1000
+488,TALAGANG,Kinnow (100Pcs),1500,1450,50
+489,TALAGANG,Grapes (Other),48100,47400,700
+490,TALAGANG,Strawberry,21400,21500,-100
+491,TALAGANG,Dates (Aseel),35400,34900,500
+492,TALAGANG,Capsicum (شملہ مرچ),5900,6400,-500
+493,TALAGANG,Lemon (China),10100,9300,800
+494,TALAGANG,Bottle Gourd (کدو),9300,10100,-800
+495,TALAGANG,Mint(پودینہ),3100,2600,500
+496,TALAGANG,Papaya(پپیتا),20400,22500,-2100
+497,TALAGANG,Loquat,28100,28400,-300
+498,Abdulhakim,Brinjal,4750,8050,-3300
+499,Abdulhakim,Lady Finger/Okra (بھنڈی توری),19700,23300,-3600
+500,Abdulhakim,Bitter Gourd (کریلا),10750,11650,-900
+501,Abdulhakim,Cauliflower,7750,8050,-300
+502,Abdulhakim,Peas,16100,13450,2650
+503,Abdulhakim,Grapefruit(100Pcs),6650,6250,400
+504,Abdulhakim,Cucumber (Kheera),4450,4300,150
+505,Abdulhakim,Melon,7350,7600,-250
+506,Abdulhakim,Strawberry,26950,25100,1850
+507,Abdulhakim,Bottle Gourd (کدو),5800,6250,-450
+508,Abdulhakim,Coriander (دھنیا),9750,8050,1700
+509,Abdulhakim,sugarcane(گنڈ یری),8500,8050,450
+510,Sanglahill,Onion,6000,5100,900
+511,Sanglahill,Brinjal,5500,6000,-500
+512,Sanglahill,Cauliflower,4300,3800,500
+513,Sanglahill,Cucumber (Kheera),4300,3800,500
+514,Hasanabdal,Onion,7950,6150,1800
+515,Hasanabdal,Tomato,7500,6700,800
+516,Hasanabdal,Brinjal,6600,7050,-450
+517,Hasanabdal,Bitter Gourd (کریلا),13650,14550,-900
+518,Hasanabdal,Carrot,5700,5250,450
+519,Hasanabdal,Guava,13650,13200,450
+520,Hasanabdal,Cabbage,4800,4350,450
+521,Hasanabdal,Ginger (Thai),27340,26350,990
+522,Hasanabdal,Melon,7950,8400,-450
+523,Hasanabdal,Watermelon,7050,6600,450
+524,Hasanabdal,Green Chilli,7500,6600,900
+525,Hasanabdal,Lemon (China),9350,8850,500
+526,Hasanabdal,Pear,51450,50950,500
+527,Hasanabdal,Bottle Gourd (کدو),9350,10050,-700
+528,Hafizabad,Onion,6250,5250,1000
+529,Hafizabad,Lady Finger/Okra (بھنڈی توری),20750,20500,250
+530,Hafizabad,Bitter Gourd (کریلا),15850,15800,50
+531,Hafizabad,Cauliflower,4750,4350,400
+532,Hafizabad,Peas,9250,8050,1200
+533,Hafizabad,Radish,1900,1850,50
+534,Hafizabad,Guava,11500,9500,2000
+535,Hafizabad,Cucumber (Kheera),4750,4350,400
+536,Hafizabad,Melon,9500,8500,1000
+537,Hafizabad,Strawberry,17500,15500,2000
+538,Pindibhattian,Moong Pulse,34700,34600,100
+539,Pindibhattian,Onion,6300,5300,1000
+540,Pindibhattian,Tomato,6900,7000,-100
+541,Pindibhattian,Cauliflower,4800,3800,1000
+542,Pindibhattian,Peas,9300,8000,1300
+543,Pindibhattian,Banana(DOZEN),203,200,3
+544,Pindibhattian,Guava,10800,9800,1000
+545,Pindibhattian,Kinnow (100Pcs),21800,19800,2000
+546,Pindibhattian,Masoor Whole (Imported),22800,22700,100
+547,Pindibhattian,Melon,9800,8800,1000
+548,Pindibhattian,Strawberry,17800,15800,2000
+549,Pindibhattian,Paddy Kainat,13200,13300,-100
+550,Khudian,Onion,6250,5300,950
+551,Khudian,Bitter Gourd (کریلا),12250,11750,500
+552,Hazro,Onion,7950,6150,1800
+553,Hazro,Tomato,7500,6700,800
+554,Hazro,Brinjal,7050,7500,-450
+555,Hazro,Bitter Gourd (کریلا),14150,15050,-900
+556,Hazro,Cauliflower,5700,5250,450
+557,Hazro,Carrot,5700,5250,450
+558,Hazro,Guava,14150,13650,500
+559,Hazro,Cabbage,4800,4350,450
+560,Hazro,Ginger (Thai),27300,26350,950
+561,Hazro,Cucumber (Kheera),4800,4350,450
+562,Hazro,Melon,7750,8850,-1100
+563,Hazro,Watermelon,7500,7050,450
+564,Hazro,Green Chilli,7950,7050,900
+565,Hazro,Lemon (China),9350,8850,500
+566,Hazro,Sweet Musk Melon,10900,11350,-450
+567,Hazro,Bottle Gourd (کدو),9800,10450,-650
+568,Hazro,Cocoyam(اروی),10950,10050,900
+569,Hazro,Cocunut,45500,44150,1350
+570,Sraialamgir,Rice Basmati Super (New),29600,29700,-100
+571,Sraialamgir,Onion,6700,5700,1000
+572,Sraialamgir,Garlic (China),49200,48200,1000
+573,Sraialamgir,Spinach,2900,2800,100
+574,Sraialamgir,Lady Finger/Okra (بھنڈی توری),22200,21200,1000
+575,Sraialamgir,Bitter Gourd (کریلا),16500,15700,800
+576,Sraialamgir,Cauliflower,5200,4200,1000
+577,Sraialamgir,Peas,9700,8500,1200
+578,Sraialamgir,Turnip,2800,2400,400
+579,Sraialamgir,Radish,22200,2000,20200
+580,Sraialamgir,Apple Kala Kullu (Pahari),41200,39200,2000
+581,Sraialamgir,Banana(DOZEN),206,210,-4
+582,Sraialamgir,Pomegranate(Kandhari),67100,66200,900
+583,Sraialamgir,Musambi(100Pcs),16700,17200,-500
+584,Sraialamgir,Grapefruit(100Pcs),3800,3400,400
+585,Sraialamgir,Cucumber (Kheera),4800,4200,600
+586,Sraialamgir,Strawberry,16200,12200,4000
+587,Sraialamgir,Dates (Aseel),36200,36225,-25
+588,Sraialamgir,Green Chilli,9700,9250,450
+589,Sraialamgir,Capsicum (شملہ مرچ),7350,72000,-64650
+590,Sraialamgir,Sweet Musk Melon,10200,10700,-500
+591,Sraialamgir,Zucchini (گھیا توری),9700,11200,-1500
+592,Sraialamgir,Mongray,8700,7200,1500
+593,Sraialamgir,jujube(بیر),7200,6700,500
+594,Sraialamgir,Papaya(پپیتا),33700,21200,12500
+595,Sraialamgir,Dates(Irani),46700,45700,1000
+596,Jauharabad,Onion,5900,5200,700
+597,Jauharabad,Tomato,7300,6900,400
+598,Jauharabad,Lady Finger/Okra (بھنڈی توری),21800,23600,-1800
+599,Jauharabad,Bitter Gourd (کریلا),10900,11800,-900
+600,Jauharabad,Peas,10900,9100,1800
+601,Jauharabad,Apple Kala Kullu (Pahari),34500,24500,10000
+602,Jauharabad,Banana(DOZEN),167,158,9
+603,Jauharabad,Rice Basmati Super (Old),41750,42250,-500
+604,Jauharabad,Gram White(Imported),36000,35500,500
+605,Jauharabad,Ginger (Thai),24500,25400,-900
+606,Jauharabad,Strawberry,24500,25400,-900
+607,Jauharabad,Sweet Musk Melon,12700,13600,-900
+608,Taunsasharif,Onion,5250,4800,450
+609,Taunsasharif,Garlic (China),48750,48500,250
+610,Taunsasharif,Tomato,7750,6750,1000
+611,Taunsasharif,Lady Finger/Okra (بھنڈی توری),23250,22500,750
+612,Taunsasharif,Bitter Gourd (کریلا),11500,11250,250
+613,Taunsasharif,Cauliflower,2750,4750,-2000
+614,Taunsasharif,Apple Kala Kullu (Pahari),38500,38750,-250
+615,Taunsasharif,Guava,12500,12750,-250
+616,Taunsasharif,Cabbage,2800,2750,50
+617,Taunsasharif,Ginger (Thai),26500,27500,-1000
+618,Taunsasharif,Garlic (Local),13750,15500,-1750
+619,Taunsasharif,Cucumber (Kheera),3750,3800,-50
+620,Taunsasharif,Lemon (China),7500,6500,1000
+621,Taunsasharif,Dates(Irani),46750,46500,250
