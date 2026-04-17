@@ -5,8 +5,8 @@
 - **Data Fields Extracted:** City Name, Crop Name, Today's Price, Yesterday's Price, Change in Price
 - **Tools Used:** Python, requests, BeautifulSoup, pandas
 
-### 2. Setup Instructions
-1. Clone this repo 
+### 2. Setup Instructions 
+1. Clone this repo https://github.com/Fatima385-debug/Web-Scraping 
 2. Install dependencies using `pip install -r requirements.txt`
 3. Run script using `python scraper.py`
 
